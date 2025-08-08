@@ -1,4 +1,4 @@
-# Vidibemus Lumen Analytics - Project Documentation
+# Vidibemus AI - Project Documentation
 
 ## Table of Contents
 1. [GitHub Pages Deployment](#github-pages-deployment)
@@ -6,15 +6,21 @@
 3. [Content Improvements](#content-improvements)
 4. [Hosting & Domain Strategy](#hosting--domain-strategy)
 5. [Branding & Naming Strategy](#branding--naming-strategy)
+6. [Rebrand to Vidibemus AI](#rebrand-to-vidibemus-ai)
 
 ---
 
 ## GitHub Pages Deployment
 
-### Initial Deployment
+### Initial Deployment (Legacy)
 - **Repository Created:** vidibemuslumenanalytics/vidibemuslumenanalytics
 - **GitHub Pages URL:** https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/
 - **Date:** January 2025
+
+### Current Deployment (Active)
+- **Repository:** vidibemuslumenanalytics/vidibemus-ai
+- **GitHub Pages URL:** https://vidibemuslumenanalytics.github.io/vidibemus-ai/
+- **Date:** January 2025 (Rebranded)
 
 ### Deployment Steps Completed:
 1. Initialized git repository
@@ -277,11 +283,94 @@ mailto:vidibemuslumenanalytics@gmail.com
 
 ## Important URLs
 
-- **Current Live Site:** https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/
-- **GitHub Repo:** https://github.com/vidibemuslumenanalytics/vidibemuslumenanalytics
+### Current Active Sites:
+- **NEW Vidibemus AI Site:** https://vidibemuslumenanalytics.github.io/vidibemus-ai/
+- **NEW GitHub Repo:** https://github.com/vidibemuslumenanalytics/vidibemus-ai
+- **Legacy Site:** https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/
+
+### Domains & Contact:
 - **Recommended Domain:** vidibemus.ai
 - **Email:** vidibemuslumenanalytics@gmail.com
 - **WhatsApp:** +44 7442 852675
+
+---
+
+## Rebrand to Vidibemus AI
+
+### Date: January 2025
+
+### Rebrand Overview
+Complete transformation from "Vidibemus Lumen Analytics" to "Vidibemus AI" to reflect broader vision beyond consulting.
+
+### Key Changes Made:
+
+#### 1. Brand Identity
+- **Old Name:** Vidibemus Lumen Analytics
+- **New Name:** Vidibemus AI
+- **Old Tagline:** "Illuminating Intelligence from Data" / "We Shall See the Light"
+- **New Tagline:** "We Shall See the Future" / "We Shall See"
+
+#### 2. Positioning Shift
+- **From:** Pure AI consultancy
+- **To:** Complete AI ecosystem (consulting + products + ventures)
+
+#### 3. New Three-Pillar Structure
+
+##### Vidibemus Consulting
+- Enterprise AI transformation
+- Working with Fortune 500 companies
+- £100M+ in value delivered
+- 10x ROI guarantee
+
+##### Vidibemus Labs
+- AI products & applications
+- B2B SaaS platforms
+- Consumer applications
+- Research to real-world solutions
+
+##### Vidibemus Ventures
+- AI venture studio
+- Incubating breakthrough startups
+- Building next unicorns
+- Ideation to IPO partnership
+
+#### 4. Website Updates
+- New hero: "We Shall See the Future"
+- Added "The Vidibemus Ecosystem" section
+- Updated all branding touchpoints
+- Maintained all case studies and services
+- Professional blog formatting with metric cards
+
+#### 5. Technical Implementation
+- Created new repository: vidibemus-ai
+- Updated all internal links to /vidibemus-ai/
+- Fixed 404 page routing
+- Enabled GitHub Pages on new repo
+- Maintained all existing features
+
+### Repository Migration
+```bash
+# Old repository (maintained)
+https://github.com/vidibemuslumenanalytics/vidibemuslumenanalytics
+
+# New repository (active)
+https://github.com/vidibemuslumenanalytics/vidibemus-ai
+```
+
+### Files Modified:
+1. **index.html** - Complete rebrand, new vision section
+2. **404.html** - Updated links and branding
+3. **README.md** - New positioning and URLs
+4. **PROJECT_DOCUMENTATION.md** - This file
+
+### Future Domain Strategy:
+```
+vidibemus.ai (Main domain)
+├── consulting.vidibemus.ai
+├── labs.vidibemus.ai
+├── ventures.vidibemus.ai
+└── apps.vidibemus.ai
+```
 
 ---
 
@@ -295,4 +384,4 @@ For questions about this documentation or the project:
 ---
 
 *Documentation created: January 2025*
-*Last updated: January 2025*
+*Last updated: January 2025 - Rebrand to Vidibemus AI*
