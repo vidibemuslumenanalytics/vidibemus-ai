@@ -1,8 +1,8 @@
 # Vidibemus Lumen Analytics 🌟
 
-[![Website](https://img.shields.io/badge/Website-Live-00D4FF)](https://your-username.github.io/vidibemus-lumen/)
-[![AI Consultancy](https://img.shields.io/badge/AI-Consultancy-7B3FF2)](https://your-username.github.io/vidibemus-lumen/)
-[![Data Science](https://img.shields.io/badge/Data-Science-00D4FF)](https://your-username.github.io/vidibemus-lumen/)
+[![Website](https://img.shields.io/badge/Website-Live-00D4FF)](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
+[![AI Consultancy](https://img.shields.io/badge/AI-Consultancy-7B3FF2)](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
+[![Data Science](https://img.shields.io/badge/Data-Science-00D4FF)](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
 
 ## 🚀 Illuminating Intelligence from Data
 
@@ -23,7 +23,7 @@ We are a cutting-edge AI and Data Science consultancy based in London, UK, speci
 
 ## 🌐 Live Website
 
-Visit our website: [https://your-username.github.io/vidibemus-lumen/](https://your-username.github.io/vidibemus-lumen/)
+Visit our website: [https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
 
 ## 🛠️ Technology Stack
 
@@ -89,10 +89,10 @@ To run this website locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/vidibemus-lumen.git
+git clone https://github.com/vidibemuslumenanalytics/vidibemuslumenanalytics.git
 
 # Navigate to the directory
-cd vidibemus-lumen
+cd vidibemuslumenanalytics
 
 # Open in browser
 open index.html
