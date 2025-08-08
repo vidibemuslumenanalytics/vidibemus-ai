@@ -12,7 +12,7 @@ Welcome to **Vidibemus AI** - Building the future of artificial intelligence thr
 
 ## ✨ About
 
-We are a cutting-edge AI and Data Science consultancy based in London, UK, specializing in:
+We are building the future of artificial intelligence from London, UK. Our ecosystem includes:
 
 - 🔮 **Predictive Analytics & Forecasting**
 - 👁️ **Computer Vision Solutions**
@@ -23,7 +23,7 @@ We are a cutting-edge AI and Data Science consultancy based in London, UK, speci
 
 ## 🌐 Live Website
 
-Visit our website: [https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
+Visit our website: [https://vidibemuslumenanalytics.github.io/vidibemus-ai/](https://vidibemuslumenanalytics.github.io/vidibemus-ai/)
 
 ## 🛠️ Technology Stack
 
@@ -89,10 +89,10 @@ To run this website locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/vidibemuslumenanalytics/vidibemuslumenanalytics.git
+git clone https://github.com/vidibemuslumenanalytics/vidibemus-ai.git
 
 # Navigate to the directory
-cd vidibemuslumenanalytics
+cd vidibemus-ai
 
 # Open in browser
 open index.html
