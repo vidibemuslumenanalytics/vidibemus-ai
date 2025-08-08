@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="#0A0E1A" stroke="url(#gradient)" stroke-width="2"/>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7B3FF2;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#7B3FF2;stop-opacity:0.8" />
+    </linearGradient>
+    
+    <!-- Glow Filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Data Nodes representing neural network -->
+  <circle cx="32" cy="32" r="4" fill="url(#gradient)" filter="url(#glow)"/>
+  
+  <!-- Orbital rings representing data flow -->
+  <ellipse cx="32" cy="32" rx="18" ry="8" fill="none" stroke="url(#gradient)" stroke-width="1" opacity="0.6" transform="rotate(45 32 32)"/>
+  <ellipse cx="32" cy="32" rx="18" ry="8" fill="none" stroke="url(#gradient)" stroke-width="1" opacity="0.6" transform="rotate(-45 32 32)"/>
+  <ellipse cx="32" cy="32" rx="18" ry="8" fill="none" stroke="url(#gradient)" stroke-width="1" opacity="0.6" transform="rotate(90 32 32)"/>
+  
+  <!-- Light rays emanating from center -->
+  <path d="M32,20 L32,12 M32,44 L32,52 M20,32 L12,32 M44,32 L52,32" stroke="url(#centerGradient)" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <path d="M24,24 L18,18 M40,24 L46,18 M24,40 L18,46 M40,40 L46,46" stroke="url(#centerGradient)" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  
+  <!-- VL Monogram in center -->
+  <text x="32" y="37" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#F0F4F8">VL</text>
+</svg>
