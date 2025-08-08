@@ -78,7 +78,7 @@ Navigate your AI transformation journey with expert guidance.
 
 ## 📞 Contact
 
-- **Email**: contact@vidibemuslumen.ai
+- **Email**: vidibemuslumenanalytics@gmail.com
 - **Phone**: +44 7442 852675
 - **Location**: London, UK
 - **Business Hours**: Mon-Fri, 9:00 AM - 6:00 PM GMT

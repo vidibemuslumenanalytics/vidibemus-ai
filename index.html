@@ -1193,7 +1193,7 @@
                     <div class="info-icon">📧</div>
                     <div>
                         <strong>Email</strong><br>
-                        contact@vidibemuslumen.ai
+                        vidibemuslumenanalytics@gmail.com
                     </div>
                 </div>
                 <div class="info-item">
@@ -1551,14 +1551,22 @@
                 message: document.getElementById('message').value
             };
             
-            // Simulate form submission
-            console.log('Form submitted:', formData);
+            // Create email content
+            const subject = `New Inquiry from ${formData.name}${formData.company ? ' - ' + formData.company : ''}`;
+            const body = `Name: ${formData.name}%0D%0A` +
+                        `Email: ${formData.email}%0D%0A` +
+                        `Company: ${formData.company || 'Not specified'}%0D%0A%0D%0A` +
+                        `Message:%0D%0A${formData.message}`;
             
-            // Show success message
-            alert('Thank you for your interest! We will contact you within 24 hours to discuss how we can illuminate your data journey.');
+            // Open email client with pre-filled data
+            window.location.href = `mailto:vidibemuslumenanalytics@gmail.com?subject=${encodeURIComponent(subject)}&body=${body}`;
             
-            // Reset form
-            e.target.reset();
+            // Show success message after a brief delay
+            setTimeout(() => {
+                alert('Thank you for your interest! Your email client has been opened with your message. We will contact you within 24 hours to discuss how we can illuminate your data journey.');
+                // Reset form
+                e.target.reset();
+            }, 500);
         }
 
         // Initialize
