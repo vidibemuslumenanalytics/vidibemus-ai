@@ -1,14 +1,14 @@
-# Vidibemus Lumen Analytics 🌟
+# Vidibemus AI 🚀
 
-[![Website](https://img.shields.io/badge/Website-Live-00D4FF)](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
-[![AI Consultancy](https://img.shields.io/badge/AI-Consultancy-7B3FF2)](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
-[![Data Science](https://img.shields.io/badge/Data-Science-00D4FF)](https://vidibemuslumenanalytics.github.io/vidibemuslumenanalytics/)
+[![Website](https://img.shields.io/badge/Website-Live-00D4FF)](https://vidibemuslumenanalytics.github.io/vidibemus-ai/)
+[![AI Platform](https://img.shields.io/badge/AI-Platform-7B3FF2)](https://vidibemuslumenanalytics.github.io/vidibemus-ai/)
+[![Innovation](https://img.shields.io/badge/Innovation-Studio-00D4FF)](https://vidibemuslumenanalytics.github.io/vidibemus-ai/)
 
-## 🚀 Illuminating Intelligence from Data
+## 🌟 We Shall See the Future
 
-Welcome to **Vidibemus Lumen Analytics** - a premium Data Science and AI Consultancy transforming complex data into luminous insights that guide businesses into the future.
+Welcome to **Vidibemus AI** - Building the future of artificial intelligence through consulting, products, and ventures.
 
-> *"Vidibemus Lumen" - We Shall See the Light*
+> *"Vidibemus" - We Shall See*
 
 ## ✨ About
 
